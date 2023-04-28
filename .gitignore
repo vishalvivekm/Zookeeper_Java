@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Zookeeper (Java)/*
+!/Zookeeper (Java)/task/
+/Zookeeper (Java)/task/*
+!/Zookeeper (Java)/task/src/
+!/Zookeeper (Java)/task/build.gradle
+!/Zookeeper (Java)/task/build.gradle.kts
